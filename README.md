@@ -1,2 +1,3 @@
 # Teste
- Primeiro Repositório versionado
+ Primeiro Repositório versionado curso em vídeo
+ 
