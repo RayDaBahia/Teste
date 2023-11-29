@@ -13,6 +13,9 @@ public class FraimeProduto extends JFrame {
 	this.setLocationRelativeTo(null);
 	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
+	/////
+	///
+	
 	
 	}
 	
