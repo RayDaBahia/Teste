@@ -1,7 +1,7 @@
 package visew;
 
 import Controle.ControleCadastro;
-import Modelo.ProdutoModel;
+import Modelo.ModelProduto;
 
 public class Main {
 
